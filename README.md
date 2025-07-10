@@ -1,14 +1,17 @@
-# 🎬 Movie Search App
+# 🎬 CineVibe - Movie Search App
 
-A sleek and responsive movie search application built with **React**, **Vite**, and **Tailwind CSS**. This app allows users to search for movies and view detailed information using the [IMDb API on RapidAPI](https://rapidapi.com/octopusteam-octopusteam-default/api/imdb236).
+A sleek, responsive movie search application built with **React**, **Vite**, and **Tailwind CSS**. CineVibe lets users instantly search for movies and view detailed information by integrating the [IMDb API](https://rapidapi.com/octopusteam-octopusteam-default/api/imdb236) via RapidAPI.
 
+👉 **Live App**: [https://cinevibee.netlify.app/](https://cinevibee.netlify.app/)  
 ---
 
 ## 🚀 Features
 
-- 🔍 **Search Movies**: Enter a movie title and view search results instantly.
-- 🎥 **Movie Details**: Click on a movie card to view full information (poster, plot, genre, rating, etc.).
-- ⚡ **Lightning Fast**: Built with Vite and Tailwind for speed and style.
+- 🔍 **Debounced Movie Search** — Smooth, optimized search with reduced API calls
+- 🎥 **Detailed Movie Info** — Poster, plot, genres, release year, rating & more
+- 📈 **Trending Section** — Custom trending movies based on user search frequency
+- 💡 **Responsive UI** — Fully mobile-friendly using Tailwind CSS
+- ⚡ **Fast Performance** — Built with Vite for near-instant load times
 
 ---
 
@@ -17,3 +20,13 @@ A sleek and responsive movie search application built with **React**, **Vite**, 
 - **Frontend**: React, Vite
 - **Styling**: Tailwind CSS
 - **API**: [IMDb API](https://rapidapi.com/octopusteam-octopusteam-default/api/imdb236) (via RapidAPI)
+- **Deployment**: Netlify
+
+
+## 🧑‍💻 Getting Started
+
+1. **Clone the repo**
+
+```bash
+git clone https://github.com/Mrithula07/CineVibe.git
+cd CineVibe
